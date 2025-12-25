@@ -48,6 +48,12 @@ body {
   padding: 2rem;
 }
 
+@media (max-width: 600px) {
+  .container {
+    padding: 1rem;
+  }
+}
+
 button {
   cursor: pointer;
   border: none;
